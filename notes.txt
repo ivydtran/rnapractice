@@ -1,1 +1,5 @@
 #RNA practice using stomach and colon data
+tmux new -s stomachqc
+sftp itran@10.1.105.13
+cd /mnt/data/encode_tissue_data/
+
